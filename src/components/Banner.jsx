@@ -1,4 +1,4 @@
-import bannerImg from '../assets/banner.png';
+const bannerImg = 'https://with-ph-b13.github.io/a-6/src/assets/banner.png';
 
 const Banner = ({ onTabChange }) => {
   return (
